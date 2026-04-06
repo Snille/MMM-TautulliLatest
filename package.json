@@ -1,0 +1,15 @@
+{
+  "name": "mmm-tautullilatest",
+  "version": "1.0.0",
+  "description": "MagicMirror2 module that shows the latest movies and TV episodes from Plex through Tautulli.",
+  "main": "MMM-TautulliLatest.js",
+  "author": "Erik Pettersson",
+  "license": "MIT",
+  "keywords": [
+    "MagicMirror2",
+    "MagicMirror",
+    "Plex",
+    "Tautulli",
+    "module"
+  ]
+}
