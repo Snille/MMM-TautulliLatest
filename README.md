@@ -4,6 +4,16 @@ MagicMirror2 module that shows the latest movies and TV episodes from Plex throu
 
 Current version: `1.0.0`
 
+## Screenshots
+
+Overview with both rows visible:
+
+![Module overview](.github/screenshot01.png)
+
+Detailed popup view:
+
+![Detailed popup view](.github/screenshot02.png)
+
 ## Features
 
 - 8 latest movies in their own row
@@ -67,3 +77,4 @@ This module uses:
 Official reference:
 
 - https://docs.tautulli.com/extending-tautulli/api-reference
+
