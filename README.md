@@ -2,7 +2,7 @@
 
 MagicMirror2 module that shows the latest movies and TV episodes from Plex through Tautulli.
 
-Current version: `1.0.0`
+Current version: `1.0.1`
 
 ## Screenshots
 
@@ -77,4 +77,5 @@ This module uses:
 Official reference:
 
 - https://docs.tautulli.com/extending-tautulli/api-reference
+
 
