@@ -2,10 +2,10 @@
 
 /* node_helper.js
  *
- * Magic Mirror 2
+ * MagicMirror²
  * Module: MMM-TautulliLatest
  *
- * Magic Mirror By Michael Teeuw http://michaelteeuw.nl
+ * MagicMirror² by Michael Teeuw and contributors
  * MIT Licensed.
  *
  * By Erik Pettersson

@@ -1,6 +1,6 @@
 # MMM-TautulliLatest
 
-MagicMirror2 module that shows the latest movies and TV episodes from Plex through Tautulli.
+MagicMirror² module that shows the latest movies and TV episodes from Plex through Tautulli.
 
 Current version: `1.0.1`
 
@@ -22,6 +22,31 @@ Detailed popup view:
 - TV episodes show episode title, series poster, and `Sxx Exx`
 - Posters are fetched through Tautulli's `pms_image_proxy`
 - Touch or click a poster to open a larger details view
+
+## Installation
+
+In your terminal, go to your MagicMirror² `modules` folder:
+
+```bash
+cd ~/MagicMirror/modules
+```
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Snille/MMM-TautulliLatest.git
+cd MMM-TautulliLatest
+```
+
+## Update
+
+To update the module:
+
+```bash
+cd ~/MagicMirror/modules/MMM-TautulliLatest
+git pull
+npm install
+```
 
 ## Example configuration
 
