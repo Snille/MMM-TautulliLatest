@@ -68,7 +68,7 @@ npm install
     detailPosterWidth: 400,
     detailPosterHeight: 600,
     showWatchedBadge: true,
-    user_id: 123456
+    user_id: 123456,
   }
 }
 ```
