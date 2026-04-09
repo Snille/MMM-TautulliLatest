@@ -1,6 +1,7 @@
 {
   "name": "mmm-tautullilatest",
   "version": "1.0.1",
+  "type": "commonjs",
   "description": "MagicMirror² module that shows the latest movies and TV episodes from Plex through Tautulli.",
   "main": "MMM-TautulliLatest.js",
   "repository": {
@@ -20,9 +21,9 @@
     "lint": "eslint"
   },
   "devDependencies": {
-    "@eslint/js": "^9.24.0",
-    "eslint": "^9.24.0",
-    "globals": "^16.0.0"
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.0",
+    "globals": "^17.4.0"
   }
 }
 

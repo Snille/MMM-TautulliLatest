@@ -69,8 +69,8 @@ npm install
     detailPosterHeight: 600,
     showWatchedBadge: true,
     user_id: 123456,
-  }
-}
+  },
+},
 ```
 
 ## Optional settings

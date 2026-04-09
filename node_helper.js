@@ -1,5 +1,3 @@
-/* global Module */
-
 /* node_helper.js
  *
  * MagicMirror²
@@ -335,7 +333,7 @@ module.exports = NodeHelper.create({
               ? parsed.response.message
               : "Unknown API error";
             reject(new Error(message));
-          } catch (error) {
+          } catch {
             reject(new Error("Invalid JSON response from Tautulli"));
           }
         });
